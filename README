@@ -1,0 +1,32 @@
+README
+FinSight Personal Finance Tracker
+Description:
+FinSight Personal Finance Tracker is a Java-based application designed to help individuals manage their personal finances effectively. It provides features for tracking income, managing expenses, creating budgets, gaining insights into financial health, and setting reminders for upcoming financial activities.
+
+How to Run:
+
+Prerequisites:
+
+Java Development Kit (JDK) installed on your system.
+JavaFX library included in your project.
+Download and Setup:
+
+ 
+Compile and Run:
+
+Open a terminal or command prompt.
+Navigate to the project directory.
+Compile the Java files using the command: javac --module-path <path_to_javafx_lib> --add-modules javafx.controls,javafx.fxml Main.java
+Run the application using the command: java --module-path <path_to_javafx_lib> --add-modules javafx.controls,javafx.fxml Main
+Usage:
+
+Upon running the application, the FinSight GUI will be displayed.
+Use the provided options and input fields to track income, manage expenses, create budgets, view financial insights, and set reminders.
+Follow on-screen instructions for each feature to effectively manage your personal finances.
+Features:
+
+Income Tracking
+Expense Management
+Budget Creation and Monitoring
+Financial Insights
+Reminders and Alerts
